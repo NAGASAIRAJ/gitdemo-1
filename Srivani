@@ -1,0 +1,8 @@
+git init
+git add
+git commit 
+git config
+git help
+git status
+git merge
+git push
